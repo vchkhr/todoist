@@ -10,4 +10,6 @@ def items
       end
     end
   end
+
+  @items.reverse!
 end
