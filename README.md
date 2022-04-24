@@ -1,6 +1,6 @@
 # Todoist Completed Tasks
 
-This script parses all completed tasks with filtering by specific project.
+This script parses all completed tasks for today with optional filtering by specific project.
 
 ## Installation
 
